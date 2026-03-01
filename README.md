@@ -134,5 +134,6 @@ Churn increases substantially for customers aged 40+, peaking in the 50–59 age
 ![Churn by Country](images/churn_by_Country.png)
 
 Germany shows the highest churn rate among
+
 ---
 
