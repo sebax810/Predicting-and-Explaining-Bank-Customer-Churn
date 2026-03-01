@@ -111,16 +111,28 @@ Higher-value customers show increased churn risk.
 
 ## 🔎 Key Insights
 
-1. Customer engagement strongly influences churn.
-2. Age is a major structural driver.
-3. Product diversification reduces churn risk.
-4. High-balance customers represent elevated revenue risk.
-5. Geographic differences suggest market-specific dynamics.
+## 📊 Key Visual Insights
+
+### Churn Rate by Active Member
+
+![Churn by Active Member](images/churn_by_active_member.png)
+
+Inactive customers show significantly higher churn compared to active customers.
 
 ---
 
-## 🔮 Next Steps
+### Churn Rate by Age Band
 
-- Reproduce visualizations in R
-- Perform deeper statistical analysis
-- Develop predictive modeling framework in future work
+![Churn by Age Band](images/churn_by_Age_Band.png)
+
+Churn increases substantially for customers aged 40+, peaking in the 50–59 age group.
+
+---
+
+### Churn Rate by Country
+
+![Churn by Country](images/churn_by_Country.png)
+
+Germany shows the highest churn rate among
+---
+
