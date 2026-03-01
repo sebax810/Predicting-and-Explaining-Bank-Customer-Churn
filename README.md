@@ -61,17 +61,11 @@ Inactive customers are more than twice as likely to churn.
 ### 2️⃣ Age Segmentation
 
 | Age Band | Churn Rate |
-
 |----------|------------|
-
 | <30      | 7.1%       |
-
 | 30–39    | 11.1%      |
-
 | 40–49    | 31.8%      |
-
 | 50–59    | 45.8%      |
-
 | 60+      | 38.9%      |
 
 Churn increases sharply after age 40.
